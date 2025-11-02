@@ -1,4 +1,4 @@
-# project-proposal
+# Data Science and Advanced Programming 2025 Project Proposal
 
 The Structure of Success: A Data Analytics Approach to Football Club
 
